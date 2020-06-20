@@ -1,0 +1,89 @@
+/* ELEMENTOS */
+
+body{
+    width: 80%;
+    margin: 0 auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    
+}
+
+header{
+    height: 500px;
+        
+}
+
+footer{
+    font-size: 20px;
+    text-align: center;
+    clear: both;
+
+}
+
+aside{
+    width: 25%;
+    float: left;
+    padding: 5px;
+    margin: 10px;
+}
+
+article{
+    background-color: #E0EEE0;
+    width: 70%;
+    float: right;
+    padding: 10px;
+    margin: 10px; 
+}
+
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 25px;
+}
+
+hr{
+    width: 25%;
+    height: 10px;
+    background-color: #838B83;
+    border: none;
+    text-align: left;
+    margin: 0 auto 0 0;
+}
+
+/* CLASSES */
+
+.foto{
+    border-radius: 50%;
+    width: 280px;
+    float: left;    
+}
+
+.iconCont{
+    margin: 5px;
+    width: 30px;
+}
+
+.iconTec{
+    margin: 5px;
+    width: 60px;
+}
+
+
+/* ID's */
+
+#header1{
+    
+  float: left;
+  margin: 30px;
+ 
+}
+
+#header2{
+    text-align: left;  
+    float: left;
+    margin: 80px;
+
+}
